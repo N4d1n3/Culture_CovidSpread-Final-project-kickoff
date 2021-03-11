@@ -48,3 +48,7 @@ by comparing the y_test Mean to the y_test + Y-modelN RMSE
 
 As a next step, additional features (e.g. wind, temperature, nutrition, sports events) need to be evaluated for their fit for the model
 Furthermore, the data set needs to be enlarged - e.g. by going from country to regional data. 
+
+
+## Further 
+In a second attempt the cultural dimensions were removed to be able to analyse more countries on socio demographic data alone. The results were so far not improving but would need further work
