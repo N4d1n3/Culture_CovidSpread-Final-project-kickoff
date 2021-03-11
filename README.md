@@ -1,5 +1,5 @@
 # Culture_CovidSpread-Final-project-kickoff
-## Analysing the Impact of Culture & Socio Demographics on the Spread of Covid
+# Analysing the Impact of Culture & Socio Demographics on the Spread of Covid
 # The Target Variable is the no. of registered covid cases per 100k per country, 193 weeks after the first case has been reported
 # Data has been taken from World Data and WDI 
 # Cultural Aspects are based on Hofstede's cultural Dimensions
